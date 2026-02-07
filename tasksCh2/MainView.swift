@@ -1,10 +1,3 @@
-//
-//  tasksCh2App.swift
-//  tasksCh2
-//
-//  Created by Sergio Inzunza on 2/5/26.
-//
-
 import SwiftUI
 import SwiftData
 
@@ -25,7 +18,7 @@ struct tasksCh2App: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SignupView()
         }
         .modelContainer(sharedModelContainer)
     }
