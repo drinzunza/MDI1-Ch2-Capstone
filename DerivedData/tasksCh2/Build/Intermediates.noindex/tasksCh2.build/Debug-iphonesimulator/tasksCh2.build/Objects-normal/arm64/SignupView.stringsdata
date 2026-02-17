@@ -1,0 +1,104 @@
+{
+  "source": "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Views/SignupView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sign Up",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create an account to continue",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dismiss",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "First Name",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your name",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last Name",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your last name",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "your mail",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "your pass",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign Up",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 134
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNamePrimary</string>
+			<key>relativePath</key>
+			<string>./primary.colorset</string>
+			<key>swiftSymbol</key>
+			<string>primary</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array/>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

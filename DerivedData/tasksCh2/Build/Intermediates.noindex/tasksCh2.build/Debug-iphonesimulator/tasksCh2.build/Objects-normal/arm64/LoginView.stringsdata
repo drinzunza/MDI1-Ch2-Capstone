@@ -1,0 +1,88 @@
+{
+  "source": "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Views/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Login",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter your credentials to continue",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dismiss",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "your mail",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "your pass",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Login",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Do you need an account?",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": " Sign up here ",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 129
+        }
+      }
+    ]
+  },
+  "version": 1
+}

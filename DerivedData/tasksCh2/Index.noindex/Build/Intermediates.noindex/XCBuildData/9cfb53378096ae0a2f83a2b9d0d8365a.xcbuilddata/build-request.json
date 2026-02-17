@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bcd720c283fdca33790dbd1a8b3f486e3d6a5d47f610555e00d29a3b02a42fd0"
+    }
+  ],
+  "containerPath" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator26.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData",
+      "indexDataStoreFolderPath" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Products",
+      "pchPath" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

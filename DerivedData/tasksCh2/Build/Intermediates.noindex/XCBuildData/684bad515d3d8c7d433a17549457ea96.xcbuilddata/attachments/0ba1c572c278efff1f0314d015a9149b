@@ -1,0 +1,99 @@
+{
+  "" : {
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary.dia",
+    "emit-module-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary-emit-module.dia",
+    "pch" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary.swiftdeps"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/MainView.swift" : {
+    "const-values" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/MainView.swiftconstvalues",
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/MainView.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/MainView.dia",
+    "index-unit-output-path" : "/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/MainView.o",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/MainView.swiftdeps",
+    "swiftmodule" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/MainView~partial.swiftmodule"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Models/Item.swift" : {
+    "const-values" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Models/User.swift" : {
+    "const-values" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/User.swiftconstvalues",
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/User.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/User.dia",
+    "index-unit-output-path" : "/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/User.o",
+    "llvm-bc" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/User.bc",
+    "object" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/User.o",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/User.swiftdeps",
+    "swiftmodule" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/User~partial.swiftmodule"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Utilities/Backgrounds.swift" : {
+    "const-values" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Backgrounds.swiftconstvalues",
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Backgrounds.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Backgrounds.dia",
+    "index-unit-output-path" : "/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Backgrounds.o",
+    "llvm-bc" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Backgrounds.bc",
+    "object" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Backgrounds.o",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Backgrounds.swiftdeps",
+    "swiftmodule" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Backgrounds~partial.swiftmodule"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Utilities/Color.swift" : {
+    "const-values" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Color.swiftconstvalues",
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Color.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Color.dia",
+    "index-unit-output-path" : "/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Color.o",
+    "llvm-bc" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Color.bc",
+    "object" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Color.o",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Color.swiftdeps",
+    "swiftmodule" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/Color~partial.swiftmodule"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Views/HomeView.swift" : {
+    "const-values" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Views/LoginView.swift" : {
+    "const-values" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Views/SignupView.swift" : {
+    "const-values" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/SignupView.swiftconstvalues",
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/SignupView.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/SignupView.dia",
+    "index-unit-output-path" : "/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/SignupView.o",
+    "llvm-bc" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/SignupView.bc",
+    "object" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/SignupView.o",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/SignupView.swiftdeps",
+    "swiftmodule" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Build/Intermediates.noindex/tasksCh2.build/Debug-iphonesimulator/tasksCh2.build/Objects-normal/arm64/SignupView~partial.swiftmodule"
+  }
+}

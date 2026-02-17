@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E6C94F00A468BA289D3425B1B247C92942D91728",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E6C94F00A468BA289D3425B1B247C92942D91728" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D30D9688-54B9-4C20-8181-76815A498DA3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E6C94F00A468BA289D3425B1B247C92942D91728" : "MDI1-Ch2-Capstone\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tasksCh2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tasksCh2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/drinzunza\/MDI1-Ch2-Capstone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E6C94F00A468BA289D3425B1B247C92942D91728"
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+[
+  {
+    "isFramework" : true,
+    "moduleName" : "Accessibility",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Accessibility.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Combine",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Combine.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreData",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/CoreData.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "CoreFoundation",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/CoreFoundation.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreGraphics",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/CoreGraphics.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "CoreImage",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/CoreImage.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreText",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/CoreText.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreTransferable",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/CoreTransferable.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreVideo",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/CoreVideo.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Darwin",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Darwin.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "DataDetection",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/DataDetection.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "DeveloperToolsSupport",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/DeveloperToolsSupport.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Dispatch",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Dispatch.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "FileProvider",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/FileProvider.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Foundation",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Foundation.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Metal",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Metal.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "OSLog",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/OSLog.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/ObjectiveC.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Observation",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Observation.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "QuartzCore",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/QuartzCore.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Spatial",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Spatial.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Swift",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Swift.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "SwiftData",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/SwiftData.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "SwiftOnoneSupport",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/SwiftOnoneSupport.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "SwiftUI",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/SwiftUI.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "SwiftUICore",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/SwiftUICore.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Symbols",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/Symbols.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "System",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/System.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "UIKit",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/UIKit.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "UniformTypeIdentifiers",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/UniformTypeIdentifiers.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "XPC",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/XPC.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/_Builtin_float.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Concurrency",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/_Concurrency.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/_DarwinFoundation1.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/_DarwinFoundation2.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/_DarwinFoundation3.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_StringProcessing",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/_StringProcessing.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "_SwiftData_SwiftUI",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/_SwiftData_SwiftUI.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "os",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/os.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "simd",
+    "modulePath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/swift\/iphonesimulator\/prebuilt-modules\/26.1\/simd.swiftmodule\/arm64-apple-ios-simulator.swiftmodule"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/Accessibility-AOSC1BC46O3Q1TILUVDC6X6SL.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Accessibility"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/CFNetwork-CG8JCIPH01LSH0SE9ZZ1DZ8O6.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CFNetwork"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/CoreData-4NJSHBOU3XJIFFICSO430RYM0.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreData"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/CoreFoundation-C7HHXSYEN66351K1BNFLRGFTR.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreFoundation"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/CoreGraphics-3HBKGD5WSWR0KV07YWXPGN8FY.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreGraphics"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/CoreImage-5QIC9VX4WKNVE928WTY02VIXN.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreImage"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/CoreText-EZTPSD8B8WTZOJPNYAWCH9C8L.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreText"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/CoreTransferable-EYNFQ6ATVHZ8SC3J5DEQMW1BN.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreTransferable"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/CoreVideo-71YW57R0G5C0L6NSV8QSZKQ1D.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreVideo"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/Darwin.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/Darwin-E6FOS0SO1I06Q6HIAVQAOGX82.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Darwin"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/DataDetection-24284UJLO3S7SSQMSXJAZZ9ZV.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "DataDetection"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/DeveloperToolsSupport-DXNJ07HEAG23JO912QZL5DS8H.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "DeveloperToolsSupport"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/dispatch.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/Dispatch-EK3NIV85VA5BDA6SDTL5ELL82.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Dispatch"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/FileProvider.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/FileProvider-96MQ6H0NO4G0E93A6JC0PE0PK.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "FileProvider"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/Foundation-ETABL87ANKUI92HWNQ655QU1O.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Foundation"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/IOSurface-A1D2KP400JBVMNC5Y3RGS8ODL.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "IOSurface"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/ImageIO-YQ17ZE6L2T8L4S0GDT0N6A77.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ImageIO"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinBasic.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/MachO-AWSDAMTD4DXF7LBBF1GILL5OR.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "MachO"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/Metal-ATML9MRT5RRYA5DD47VAK25SH.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Metal"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/OSLog-ESUWYUMV1R62NP6XQGNASEIMT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "OSLog"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/ObjectiveC.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/ObjectiveC-UC6ZUWZ64SN094XUD4QYLEU4.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/OpenGLES.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/OpenGLES-5PL0RS22E35K6R39S4ZCZ4IHX.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "OpenGLES"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/QuartzCore-Q4Q9WQ6W7YRCG7ICBJUEULV6.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "QuartzCore"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/Security-1W5N4A6UZ0X8SSQ6VDVG60S9L.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Security"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/Spatial\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/Spatial-4E3U8WUMHWM2WSF6DBPSOH99.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Spatial"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/SwiftShims-BMILA8YAX1U2ZVA8Q3UP7YV6U.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/SwiftUI-EJAG6V0U5L8CTM3GVXRF6P2RZ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftUI"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/SwiftUICore-4BDEJYFMRWULK1029EPMX26VT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftUICore"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/Symbols-CM7VTPAXAR4APE4XDFWN5MSLX.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Symbols"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/UIKit.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/UIKit-5RU1Z8Y08WA23JXSERJOUY4FE.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "UIKit"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/SubFrameworks\/UIUtilities.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/UIUtilities-5CR2HNJRXX2E8GB8K7AXPOUPQ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "UIUtilities"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/UniformTypeIdentifiers-AWE7911IG6PSI3WJ44OABLK0X.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "UniformTypeIdentifiers"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/UserNotifications.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/UserNotifications-YHA8LIN9DCFY6723MIQ0N5B8.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "UserNotifications"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/xpc.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/XPC-13Q3SX9SH4VWVDG60A86K7FU3.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "XPC"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_AvailabilityInternal-CLPI8J7KSYOHJCQKJUY0BHB6L.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_AvailabilityInternal"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_float-BDMOCVUOIUH4CXYECHYCLD8EO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_intrinsics-BNZJBHO3IQPFJW2RE0EJQASET.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_intrinsics"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_inttypes-8VJPK98A7MU29OFI0G1Z25MXS.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_inttypes"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_limits-B7KL7D65VBCMBYKKURF5LJZAL.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_limits"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_stdarg-3ZATX5IV6IN9A3ECG32TXM4Q0.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdarg"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_stdatomic-1I4WON6UZDP0SSQ6N9M3ZLQYT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdatomic"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_stdbool-D9NK95U9MYPLVUK4EZ6KHM79A.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdbool"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_stddef-CT181ZLGJJL99995MJDR6OE9T.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stddef"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_stdint-8FC7UYXS09JEOL5T90K73YJGP.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdint"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_Builtin_tgmath-C2ATUYEPYL573055B9UY07XTZ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_tgmath"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_DarwinFoundation1-2YH84VGR4AQ4AUYAALBGSLY81.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_DarwinFoundation2-6KVGWLFEHY2RV4JFJZY59Y1MP.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation3.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_DarwinFoundation3-9AVOXQ7E33RDBOXR58YTR6JDH.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/_SwiftConcurrencyShims-3F9AT3SKLGAGQRV8F6K7TMIQ7.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_SwiftConcurrencyShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/os-ETJTV8OAKPJD62FIYIMKJ4BDQ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/os_object-7EZ4MP34Z4K63Q55VRF6134CU.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_object"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/os_workgroup-8QZVWQP9SZKJBXILVMSNINEVW.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_workgroup"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/ptrauth-ENN6OMNWOZU44VEIZMDYZVM1.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrauth"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/ptrcheck-D2IYW22XB9AJ8GKHCLQIC03TV.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrcheck"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/simd\/module.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/simd-488I5QOYVNF4FTU1EG56TJ9Q6.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "simd"
+  },
+  {
+    "clangModuleMapPath" : "\/Volumes\/L3R3\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Volumes\/L3R3\/Documents\/Code\/SDGKU\/MDI_118\/CH02\/MDI1-Ch2-Capstone\/DerivedData\/ModuleCache.noindex\/sys_types-17YRLVI2H8HUQO641ZR64MSET.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "sys_types"
+  }
+]

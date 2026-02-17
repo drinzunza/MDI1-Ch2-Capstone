@@ -3,52 +3,68 @@ import SwiftData
 
 struct HomeView: View {
     @Environment(\.modelContext) private var modelContext
-    @Query private var items: [Item]
+    @Query private var tasks: [Task]
+    
+    @State private var showCategories: Bool = false
+    @State private var selectedTask: Task? = nil
 
     var body: some View {
         NavigationSplitView {
-            List {
-                ForEach(items) { item in
-                    NavigationLink {
-                        Text("Item at \(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))")
-                    } label: {
-                        Text(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))
+            ZStack {
+                
+                Backgrounds.gradient1.ignoresSafeArea()
+                
+                List(tasks, selection: $selectedTask) { task in
+                    NavigationLink(value: task) {
+                        Text(task.title)
                     }
                 }
-                .onDelete(perform: deleteItems)
-            }
-            .toolbar {
-                ToolbarItem(placement: .navigationBarTrailing) {
-                    EditButton()
-                }
-                ToolbarItem {
-                    Button(action: addItem) {
-                        Label("Add Item", systemImage: "plus")
+                .listStyle(.plain)
+                .navigationTitle("My Tasks")
+                .toolbar {
+                    ToolbarItem{
+                        Button(action: { showCategories = true }) {
+                            Text("Cats")
+                        }
                     }
+                    ToolbarItem {
+                        Button(action: {}) {
+                            Label("Add Item", systemImage: "plus")
+                        }
+                    }
+                }
+                .navigationDestination(isPresented: $showCategories) {
+                    CategoriesViews()
                 }
             }
         } detail: {
-            Text("Select an item")
-        }
-    }
-
-    private func addItem() {
-        withAnimation {
-            let newItem = Item(timestamp: Date())
-            modelContext.insert(newItem)
-        }
-    }
-
-    private func deleteItems(offsets: IndexSet) {
-        withAnimation {
-            for index in offsets {
-                modelContext.delete(items[index])
+            if let task = selectedTask {
+                TaskDetailsView(task: task)
+            }
+            else {
+                Text("Select an item")
             }
         }
     }
 }
 
 #Preview {
-    HomeView()
-        .modelContainer(for: Item.self, inMemory: true)
+    
+    let cofig = ModelConfiguration(isStoredInMemoryOnly: true)
+    let container = try! ModelContainer(for: Task.self, configurations: cofig)
+    
+    // insert data in container
+    let home = Category(name: "Home", colorHex: "#b32741")
+    let work = Category(name: "Work", colorHex: "#b36827")
+    container.mainContext.insert(home)
+    container.mainContext.insert(work)
+    
+    let task1 = Task(title: "Mock Data 1", details: "long description here", budget: 100, category: home)
+    let task2 = Task(title: "Mock Data 2", details: "Complete Forum 1 evaluation and set grades", budget: 0, category: work)
+    container.mainContext.insert(task1)
+    container.mainContext.insert(task2)
+    
+    
+    return HomeView()
+        .modelContainer(container)
 }

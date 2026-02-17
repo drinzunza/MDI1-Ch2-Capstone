@@ -1,0 +1,32 @@
+{
+  "source": "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Views/HomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Item at %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Item",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select an item",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 31
+        }
+      }
+    ]
+  },
+  "version": 1
+}

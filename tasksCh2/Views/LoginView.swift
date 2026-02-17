@@ -1,9 +1,18 @@
 import SwiftUI
+import SwiftData
 
 struct LoginView: View {
     
+    @Environment(\.modelContext) private var modelContext
+    
+    @AppStorage("isLoggedIn") var isLoggedIn: Bool = false
+    @AppStorage("userId") var userId: String = ""
+    
     @State private var email: String = ""
     @State private var password: String = ""
+    @State private var invalidLogin: Bool = false
+    @State private var errorMessage: String = ""
+    @State private var showSignUp: Bool = false
     
     var body: some View {
         NavigationStack {
@@ -36,6 +45,24 @@ struct LoginView: View {
                     
                     // form
                     VStack(spacing: 20) {
+                        //error messages
+                        if invalidLogin {
+                            HStack {
+                                Text(errorMessage)
+                                    .font(.caption)
+                                    .foregroundColor(.white)
+                                Spacer()
+                                Button("Dismiss") {
+                                    invalidLogin = false
+                                }
+                                .font(.caption)
+                                .foregroundColor(.white)
+                            }
+                            .padding()
+                            .background(Color.red.opacity(0.8))
+                            .cornerRadius(8)
+                        }
+                        
                         // email
                         VStack(alignment:.leading) {
                             Text("Email")
@@ -72,7 +99,7 @@ struct LoginView: View {
                         }
                         
                         // button
-                        Button(action:{})
+                        Button(action: performLogin)
                         {
                             Text("Login")
                                 .frame(maxWidth: .infinity)
@@ -99,22 +126,59 @@ struct LoginView: View {
                             .foregroundStyle(Color(hex:"#fafafa"))
                         
                         
-                        Button(action: {}) {
+                        Button(action: { showSignUp = true }) {
                             Text(" Sign up here ")
                                 .padding()
                                 .background(Color(hex:"D7D7D7"))
                                 .cornerRadius(10)
                         }
-                        
                     }
-                    
                     Spacer()
-                    
                 }
-                
+            }
+            .navigationDestination(isPresented: $showSignUp) {
+                SignupView()
             }
         }
     }
+    
+    private func performLogin(){
+        //validations
+        guard !email.isEmpty, !password.isEmpty else {
+            errorMessage = "Email and Password are required fields"
+            invalidLogin = true
+            return
+        }
+        
+        //find user by email
+        let lowerEmail = email.lowercased()
+        let descriptor = FetchDescriptor<User>(
+            predicate: #Predicate<User> {
+                $0.email == lowerEmail }
+        )
+            
+        guard let users = try? modelContext.fetch(descriptor),
+            let user = users.first else {
+                errorMessage = "Account not found, verify your email"
+                invalidLogin = true
+                return
+            }
+        
+        //verify the password
+        let passwordHash = User.hashPassword(password)
+        guard passwordHash == user.password else {
+            errorMessage = "Invalid Password"
+            invalidLogin = true
+            return
+        }
+        
+        //successful login
+        invalidLogin = false
+        userId = user.id
+        isLoggedIn = true
+        
+    }
+    
 }
 
 #Preview {

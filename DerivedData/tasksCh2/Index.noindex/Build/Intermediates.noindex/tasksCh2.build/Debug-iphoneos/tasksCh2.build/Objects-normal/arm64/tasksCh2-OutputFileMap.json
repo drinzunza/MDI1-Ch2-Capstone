@@ -1,0 +1,34 @@
+{
+  "" : {
+    "dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Intermediates.noindex/tasksCh2.build/Debug-iphoneos/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary.d",
+    "diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Intermediates.noindex/tasksCh2.build/Debug-iphoneos/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary.dia",
+    "emit-module-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Intermediates.noindex/tasksCh2.build/Debug-iphoneos/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Intermediates.noindex/tasksCh2.build/Debug-iphoneos/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary-emit-module.dia",
+    "pch" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Intermediates.noindex/tasksCh2.build/Debug-iphoneos/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Intermediates.noindex/tasksCh2.build/Debug-iphoneos/tasksCh2.build/Objects-normal/arm64/tasksCh2-primary.swiftdeps"
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/DerivedData/tasksCh2/Index.noindex/Build/Intermediates.noindex/tasksCh2.build/Debug-iphoneos/tasksCh2.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/MainView.swift" : {
+
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Models/Item.swift" : {
+
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Utilities/Backgrounds.swift" : {
+
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Utilities/Color.swift" : {
+
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Views/HomeView.swift" : {
+
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Views/LoginView.swift" : {
+
+  },
+  "/Volumes/L3R3/Documents/Code/SDGKU/MDI_118/CH02/MDI1-Ch2-Capstone/tasksCh2/Views/SignupView.swift" : {
+
+  }
+}
