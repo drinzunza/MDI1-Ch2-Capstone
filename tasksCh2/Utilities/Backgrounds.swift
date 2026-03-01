@@ -37,5 +37,17 @@ struct Backgrounds {
         endPoint: .top
     )
     
+    
+    // green gradient
+    static var gradientCompleted = LinearGradient(
+        gradient: Gradient(colors: [
+            Color(hex: "#7b9e82"),
+            Color(hex: "#daf0df"),
+        ]),
+        startPoint: .bottomLeading,
+        endPoint: .topTrailing
+    )
+    
+    
 }
 

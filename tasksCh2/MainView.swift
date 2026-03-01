@@ -3,7 +3,6 @@ import SwiftData
 
 @main
 struct tasksCh2App: App {
-    
     @AppStorage("isLoggedIn") private var isLoggedIn: Bool = false
     
     var sharedModelContainer: ModelContainer = {
@@ -32,8 +31,15 @@ struct tasksCh2App: App {
         WindowGroup {
             ZStack {
                 if isLoggedIn {
-                    HomeView()
-                        .transition(.move(edge: .trailing))
+                    if UIDevice.current.userInterfaceIdiom == .pad {
+                        HomeView_iPad()
+                            .transition(.move(edge: .trailing))
+                    }
+                    else {
+                        HomeView_iPhone()
+                            .transition(.move(edge: .trailing))
+                    }
+                    
                 }
                 else {
                     LoginView()

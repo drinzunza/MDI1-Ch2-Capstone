@@ -5,6 +5,8 @@ struct CategoriesViews: View {
     @Environment(\.modelContext) private var modelContext: ModelContext
     @Query private var categories: [Category]
     
+    @State private var showCategorySheet: Bool = false
+    
     
     var body: some View {
         NavigationStack {
@@ -15,8 +17,7 @@ struct CategoriesViews: View {
                 List {
                     ForEach(categories) { category in
                         NavigationLink(value:category) {
-                            Text(category.name)
-                                .foregroundStyle(Color(hex: category.colorHex))
+                            CategoryRowView(category:category)
                         }
                     }
                 }
@@ -24,14 +25,17 @@ struct CategoriesViews: View {
                 .navigationTitle("My Categories")
                 .toolbar {
                     ToolbarItem {
-                        Button(action: {}) {
+                        Button(action: { showCategorySheet = true }) {
                             Label("Add Item", systemImage: "plus")
                         }
                     }
                 }
+            } // ztack
+            .sheet(isPresented: $showCategorySheet) {
+                CategoryView()
             }
-        }  
-    }
+        }// nav stack
+    } // body end
 }
 
 #Preview {
